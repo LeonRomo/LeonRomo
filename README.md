@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on building REST APIs with ASP.NET
-- 🌱 I’m currently learning C# and ASP.NET using https://docs.microsoft.com/en-us/learn/
+- 🔭 I’m currently working on clojure, re-frame and reagent
+- 🌱 I’m currently learning clojurescript
 - 👯 I’m looking to collaborate on good spotify playlists lol good music for everybody
 - 🤔 I’m looking for help with web development
 - 💬 Ask me about my hobbies and things i am passionate about
