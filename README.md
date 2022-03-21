@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on clojure, re-frame and reagent
 - 🌱 I’m currently learning clojurescript
 - 👯 I’m looking to collaborate on good spotify playlists lol good music for everybody
-- 🤔 I’m looking for help with web development
+- 🤔 I’m looking for help with web development especially in Backend technologies like Django
 - 💬 Ask me about my hobbies and things i am passionate about
 - 📫 How to reach me: telegram @RomoLeon Discord @Romo#7533
 - 😄 Pronouns: He/him
